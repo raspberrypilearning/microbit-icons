@@ -1,12 +1,12 @@
 You can use the LEDs to display a pre-made icon (picture).
 
-You can find the <code style="background-color: #1E90FF">show icon</code> block in the <code style="background-color: #1E90FF">Basic</code> menu in your Toolbox.
+You can find the `show icon`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} menu in your Toolbox.
 
 <img src="images/show-icon-location.png" alt="The Basic menu, with the 'show icon' block highlighted." width="350"/>
 
 There are loads for you to choose from!
 
-Click on the heart icon at the end of the <code style="background-color: #1e90ff">show icon</code> block. 
+Click on the heart icon at the end of the `show icon`{:class='microbitbasic'} block . 
 
 You will see a drop down, with all the available pre-made icons. 
 
