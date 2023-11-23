@@ -1,15 +1,15 @@
-You can use the LEDs to display a pre-made icon (picture).
+Je kunt de LED's gebruiken om een kant-en-klaar pictogram (afbeelding) weer te geven.
 
-You can find the `show icon`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} menu in your Toolbox.
+Je kunt het blok `toon lichtjes`{:class='microbitbasic'} vinden in het `Basis`{:class='microbitbasic'} menu in je Toolbox.
 
 <img src="images/show-icon-location.png" alt="The Basic menu, with the 'show icon' block highlighted." width="350"/>
 
-There are loads for you to choose from!
+Er zijn er heel veel waaruit je kunt kiezen!
 
-Click on the heart icon at the end of the `show icon`{:class='microbitbasic'} block.
+Klik op het hartpictogram aan het einde van het `toon pictogram`{:class='microbitbasic'} blok.
 
-You will see a drop-down menu, with all the available pre-made icons.
+Je ziet een vervolgkeuze met alle beschikbare kant-en-klare pictogrammen.
 
 <img src="images/show-icons.png" alt="The 'show icon' menu expanded, showing a choice of 20 icons, with the option to scroll to see more. Icons shown include a tick symbol, a cross symbol, a smiley face, and a duck." width="350"/>
 
-Pick an icon you like!
+Kies een pictogram dat je leuk vindt!
