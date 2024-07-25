@@ -1,6 +1,6 @@
 Je kunt de LED's gebruiken om een kant-en-klaar pictogram (afbeelding) weer te geven.
 
-Je kunt het blok `toon lichtjes`{:class='microbitbasic'} vinden in het `Basis`{:class='microbitbasic'} menu in je Toolbox.
+Je kunt het blok `toon pictogram`{:class='microbitbasic'} vinden in het `Basis`{:class='microbitbasic'} menu in je Toolbox.
 
 <img src="images/show-icon-location.png" alt="The Basic menu, with the 'show icon' block highlighted." width="350"/>
 
