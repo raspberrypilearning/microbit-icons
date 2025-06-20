@@ -1,15 +1,15 @@
-You can use the LEDs to display a pre-made icon (picture).
+Tu peux utiliser les LED pour afficher une icône prédéfinie (image).
 
-You can find the `show icon`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} menu in your Toolbox.
+Tu peux trouver le bloc `montrer l'icône`{:class='microbitbasic'} dans le menu `Base`{:class='microbitbasic'} dans ta boîte à outils.
 
 <img src="images/show-icon-location.png" alt="The Basic menu, with the 'show icon' block highlighted." width="350"/>
 
-There are loads for you to choose from!
+Tu as l'embarras du choix !
 
-Click on the heart icon at the end of the `show icon`{:class='microbitbasic'} block.
+Clique sur l'icône en forme de cœur à la fin du bloc `montrer l'icône`{:class='microbitbasic'}.
 
-You will see a drop-down menu, with all the available pre-made icons.
+Tu verras un menu déroulant avec toutes les icônes prédéfinies disponibles.
 
 <img src="images/show-icons.png" alt="The 'show icon' menu expanded, showing a choice of 20 icons, with the option to scroll to see more. Icons shown include a tick symbol, a cross symbol, a smiley face, and a duck." width="350"/>
 
-Pick an icon you like!
+Choisis une icône que tu aimes !
