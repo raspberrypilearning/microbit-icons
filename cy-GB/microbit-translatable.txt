@@ -1,0 +1,3 @@
+The Basic menu, with the 'show icon' block highlighted.
+
+The 'show icon' menu expanded, showing a choice of 20 icons, with the option to scroll to see more. Icons shown include a tick symbol, a cross symbol, a smiley face, and a duck.
